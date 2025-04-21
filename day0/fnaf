@@ -1,0 +1,13 @@
+from turtle import*
+#drow a house
+
+penup()
+goto(-250, 0)
+pendown
+left(90)
+forward(300)
+right(90)
+forward(60)
+right((30))
+
+exitonclick()
